@@ -79,6 +79,10 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 - [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum?wt.mc_id=MVP_323261)
 
+#### Microsoft Social
+- [Azure DevOps](https://x.com/azuredevops)
+- [Linkedin](https://www.linkedin.com/company/microsoft-azure-devops)
+
 #### Azure DevOps Tools and Extensions
 
 <!-- markdown-link-check-disable -->
@@ -170,3 +174,4 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 - [Azure DevOps Reddit](https://www.reddit.com/r/azuredevops/)
 - [Azure DevOps Stackoverflow](https://stackoverflow.com/questions/tagged/azure-devops)
+- [Azure DevOps / Azure DevOps Server Linkedin Group](https://www.linkedin.com/groups/3386360/)
