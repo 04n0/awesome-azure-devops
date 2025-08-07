@@ -47,6 +47,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Track your work by using managed queries in Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/queries/about-managed-queries?view=azure-devops&wt.mc_id=MVP_323261)
 - [Which process is the best for my use case?](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process&wt.mc_id=MVP_323261)
 - [Dashboard in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboards?view=azure-devops&wt.mc_id=MVP_323261)
+- [Microsoft DevOps Products](https://learn.microsoft.com/en-us/azure/?view=azure-devops&product=devops)
 
 #### Microsoft Videos
 
@@ -68,6 +69,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Azure DevOps What's New?](https://learn.microsoft.com/en-us/azure/devops/release-notes/docswhatsnew?wt.mc_id=MVP_323261)
 - [DevOps Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here?wt.mc_id=MVP_323261)
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops?wt.mc_id=MVP_323261)
+- [AzureFunBytes – A Brief Intro To Azure Boards](https://devblogs.microsoft.com/devops/azurefunbytes-a-brief-intro-to-azure-boards/)
 
 #### Microsoft Forums
 
