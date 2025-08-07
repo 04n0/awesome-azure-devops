@@ -147,6 +147,10 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
 - [PSRule.Rules.AzureDevOps ADO configuration best practices audit](https://github.com/cloudyspells/PSRule.Rules.AzureDevOps)
+- Azure Devops Migration Tools
+  - [ Mastering Azure DevOps Migration: A Comprehensive Guide by NKDAgility ](https://www.youtube.com/watch?v=RCJsST0xBCE)
+  - [Azure Devops Migration Tools Homepage](https://devopsmigration.io/)
+  - [Azure Devops Migration Tools Repo](https://github.com/nkdAgility/azure-devops-migration-tools)
 
 #### Community Channels
 
