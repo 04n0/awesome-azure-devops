@@ -19,11 +19,11 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Microsoft Videos](#microsoft-videos)
       - [Microsoft Blogs](#microsoft-blogs)
       - [Microsoft Forums](#microsoft-forums)
+      - [Microsoft Social](#microsoft-social)
       - [Azure DevOps Tools and Extensions](#azure-devops-tools-and-extensions)
   - [Community content](#community-content)
       - [Community Videos](#community-videos)
       - [Community Blogs](#community-blogs)
-      - [Community Podcasts](#community-podcasts)
       - [Community Tools and Extensions](#community-tools-and-extensions)
       - [Community Channels](#community-channels)
       - [Community Forums](#community-forums)
@@ -48,6 +48,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Which process is the best for my use case?](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process&wt.mc_id=MVP_323261)
 - [Dashboard in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboards?view=azure-devops&wt.mc_id=MVP_323261)
 - [Microsoft DevOps Products](https://learn.microsoft.com/en-us/azure/?view=azure-devops&product=devops)
+  [Azure DevOps REST API](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
 
 #### Microsoft Videos
 
